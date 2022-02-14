@@ -1,4 +1,7 @@
-# nyu-cs2262-001-fa20
-CSCI-UA.0201-005 - Fall 2020
+# nyu-cs2262-001-sp22
 
-Central repository for managing class activities and course information
+Data Communications & Networks
+
+CSCI-GA.2262-001 - Spring 2022
+
+Repository for NYU DCN coursework
